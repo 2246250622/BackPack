@@ -8,7 +8,7 @@
 
 ## 步驟2：匯入腳本
 
-1. 點擊[這裡](![Latest Release](https://github.com/2246250622/BackPack/releases/latest))下載腳本文件。
+1. 點擊[這裡]([Latest Release](https://github.com/2246250622/BackPack/releases/latest))下載腳本文件。
 2. 打開Tampermonkey的控制面板，點擊"導入"。
 3. 在彈出的對話框中，選擇剛才下載的腳本文件。
 4. 點擊"安裝"按鈕，Tampermonkey將自動安裝腳本。
