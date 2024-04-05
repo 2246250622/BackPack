@@ -1,3 +1,8 @@
+# Backpack 交易所刷交易量腳本
+
+如果你還沒註冊，可以透過連結去註冊：[https://backpack.exchange/refer/babycheuk](https://backpack.exchange/refer/babycheuk)
+
+刷交易量獲得打新空投的機會， 最近傳言 Backpack 要上Wormhole或Tensor的IDO/IEO專案。
 # 匯入Tampermonkey腳本教學
 
 此教學將引導你如何在Tampermonkey中匯入我們的腳本。
